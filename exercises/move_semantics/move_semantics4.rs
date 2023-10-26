@@ -8,8 +8,7 @@
 // for a hint.
 
 
-#[test]
-fn main() {
+pub fn main() {
 
     let mut vec1 = fill_vec();
 
